@@ -1,0 +1,29 @@
+- company: Stanford Vision Lab
+  title: Research Intern | Stanford Vision Lab
+  advisor: Dr. Jiajun Wu
+  advisor_link : https://jiajunwu.com
+  description : Creating streamable-NeRFs
+  dates: "Oct 2023 - Present"
+  location: Stanford, California
+  logo: images/stanford.png
+
+- company: Carnegie Mellon University
+  title: Research Intern | Xu Lab
+  advisor : Dr. Min Xu
+  advisor_link : https://cbd.cmu.edu/people/xu.html
+  description:
+    - Developed methodologies to detect possibility of cancer cells in carbon nanotube forests.
+  dates: "Aug 2023 - Nov 2023"
+  location: Pittsburgh, Pennsylvania
+  logo: images/png-transparent-carnegie-mellon-university-in-qatar-carnegie-mellon-school-of-computer-science-integrated-innovation-institute-cornell-university-student-text-people-logo.png
+
+- company: FAU Germany
+  title: Research Intern | Factory of Automation and Production Systems
+  advisor : Kedilioglu Oguz
+  advisor_link : https://www.faps.fau.eu/person/oguz-kedilioglu/
+  description:
+    - Led research on a 6-DoF pose estimation model for metallic objects, eliminating the need for fiducial markers and modified compilation files for computer vision libraries.
+  dates: "Oct 2022 - May 2023"  
+  location: Erlangen, Bavaria
+  logo: /images/Friedrich_Alexander_University_of_Erlangen-Nuremberg_Seal_2022.png
+
